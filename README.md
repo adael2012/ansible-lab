@@ -30,7 +30,6 @@ ansible-playbook -i inventory.ini playbook.yml
 ## Captura de la ejecución exitosa
 ![Ejecución del playbook](captura.png)
 
-> Reemplaza `captura.png` con tu captura real y súbela al repositorio.
 
 ## Estructura
 ```text
